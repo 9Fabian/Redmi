@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/9Fabian/openwrt
+  REPO_URL: https://github.com/9Fabian/openwrt.git
   REPO_BRANCH: 23.05
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: config/Remi.config
